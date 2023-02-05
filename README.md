@@ -1,12 +1,14 @@
 ## Hello! I'm Sarwat Aijaz 👋
-## A Passionate Software Engineer
+ **A Passionate Software Engineer**
+ 
+ 
 ![7e95e163ba52640bde9aaf98ad11c0ab](https://user-images.githubusercontent.com/124436066/216822629-f9ac4f26-a1db-4942-a069-3d529fda7c57.gif)
 
 
 
 - 🌱 I’m currently learning **Game Development**
 - 📫 Reach me at sarwataijaz270@gmail.com
-- ⚡ Fun fact: K-pop Lover :')
+- ⚡ Fun fact: **K-pop Lover** :')
 
 ## Language and tools:
 
