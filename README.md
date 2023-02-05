@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **App Development**
 - 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
