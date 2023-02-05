@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Game Development**
-- 📫 Reach me at sarwataijaz270@gmail.com
+- 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
 ## Language and tools:
