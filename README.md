@@ -1,22 +1,21 @@
 ## Hello! I'm Sarwat Aijaz 👋
  **A Passionate Software Engineer**
  
- 
-![7e95e163ba52640bde9aaf98ad11c0ab](https://user-images.githubusercontent.com/124436066/216822629-f9ac4f26-a1db-4942-a069-3d529fda7c57.gif)
+![J4o](https://github.com/sarwataijaz/sarwataijaz/assets/124436066/112e6784-3508-4415-a306-04011db72ca9)
+
 
 
 
 - 🌱 I’m currently learning **Game Development**
+- 🔭 I’m currently working on **DSA** 
 - 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
-## Language and tools:
+  ## Connect with me:
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarwataijaz/)
 
-
-![images](https://user-images.githubusercontent.com/124436066/216822701-ec3aa94f-6a3e-4909-a4a2-3123eeee2102.png)
-![174-1746684_java-java-logo-black-png-transparent-png](https://github.com/sarwataijaz/sarwataijaz/assets/124436066/160be489-18df-458a-97ba-72eef12618b0)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=sarwataijaz&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwataijaz&layout=compact"/>
 
 
 
