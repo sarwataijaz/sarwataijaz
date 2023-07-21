@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Game Development**
-- 🔭 I’m currently working on **DSA** 
+- 🔭 I’m currently working on **DSA in Java** 
 - 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
