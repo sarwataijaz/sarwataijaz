@@ -2,8 +2,8 @@
  **A Passionate Undergraduate Software Engineer**
 
 
-- 🌱 I’m currently learning **App Development**
-- 🔭 I’m currently working on **Object-Oriented Programming in Java** 
+- 🌱 I’m currently learning **Android Development**
+- 🔭 I’m currently working on **Java and Kotlin** 
 - 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
