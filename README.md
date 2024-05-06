@@ -1,6 +1,7 @@
 ## Hello! I'm Sarwat Aijaz 👋
  **A Passionate Undergraduate Software Engineer**
  
+<!-- ![](https://komarev.com/ghpvc/?username=sarwataijaz&color=blueviolet&label=Profile+Views) -->
 
 - 🌱 I’m currently learning **Android Development**
 - 🔭 I’m currently working on **Java and Kotlin** 
