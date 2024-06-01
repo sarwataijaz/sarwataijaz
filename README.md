@@ -3,8 +3,8 @@
  
  <!-- ![](https://komarev.com/ghpvc/?username=sarwataijaz&color=blueviolet&label=Profile+Views) -->
 
-- 🌱 I’m currently learning **Android Development**
-- 🔭 I’m currently working on **Java and Kotlin** 
+- 🌱 I’m currently learning **Flutter Development**
+- 🔭 I’m currently working on **Flutter and Native Android** 
 - 📫 Reach me at sarwataijaaz@gmail.com
 - ⚡ Fun fact: **K-pop Lover** :')
 
